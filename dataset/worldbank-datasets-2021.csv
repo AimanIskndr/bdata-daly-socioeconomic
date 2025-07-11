@@ -111,7 +111,7 @@ Current health expenditure (% of GDP),IDA only,IDX,4.260467844
 Current health expenditure (% of GDP),IDA total,IDA,4.151570478
 Current health expenditure (% of GDP),India,IND,3.34680939
 Current health expenditure (% of GDP),Indonesia,IDN,3.70634937
-Current health expenditure (% of GDP),"Iran",IRN,5.77013779
+Current health expenditure (% of GDP),Iran,IRN,5.77013779
 Current health expenditure (% of GDP),Iraq,IRQ,5.25095701
 Current health expenditure (% of GDP),Ireland,IRL,6.59614468
 Current health expenditure (% of GDP),Isle of Man,IMN,..
@@ -123,8 +123,8 @@ Current health expenditure (% of GDP),Jordan,JOR,7.20182657
 Current health expenditure (% of GDP),Kazakhstan,KAZ,3.92458963
 Current health expenditure (% of GDP),Kenya,KEN,4.56525421
 Current health expenditure (% of GDP),Kiribati,KIR,11.65399933
-Current health expenditure (% of GDP),"North Korea",PRK,..
-Current health expenditure (% of GDP),"South Korea",KOR,8.95732689
+Current health expenditure (% of GDP),North Korea,PRK,..
+Current health expenditure (% of GDP),South Korea,KOR,8.95732689
 Current health expenditure (% of GDP),Kosovo,XKX,..
 Current health expenditure (% of GDP),Kuwait,KWT,5.50187826
 Current health expenditure (% of GDP),Kyrgyz Republic,KGZ,5.35275412
@@ -378,7 +378,7 @@ Data from database: World Development Indicators,,,
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",IDA total,IDA,..
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",India,IND,..
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Indonesia,IDN,9.485641479
-"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)","Iran",IRN,17.78557396
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Iran,IRN,17.78557396
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Iraq,IRQ,10.93898869
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Ireland,IRL,37.74088669
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Isle of Man,IMN,..
@@ -390,8 +390,8 @@ Data from database: World Development Indicators,,,
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Kazakhstan,KAZ,..
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Kenya,KEN,5.679631233
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Kiribati,KIR,..
-"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)","North Korea",PRK,34.24224854
-"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)","South Korea",KOR,34.24224854
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",North Korea,PRK,34.24224854
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",South Korea,KOR,34.24224854
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Kosovo,XKX,..
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Kuwait,KWT,..
 "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Kyrgyz Republic,KGZ,..
@@ -644,7 +644,7 @@ Data from database: World Development Indicators,,,
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",IDA total,IDA,..
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",India,IND,63.30651093
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Indonesia,IDN,84.92641449
-"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)","Iran",IRN,86.38999176
+"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Iran,IRN,86.38999176
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Iraq,IRQ,32.49634933
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Ireland,IRL,98.89533997
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Isle of Man,IMN,..
@@ -656,8 +656,8 @@ Data from database: World Development Indicators,,,
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Kazakhstan,KAZ,..
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Kenya,KEN,86.04025269
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Kiribati,KIR,..
-"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)","North Korea",PRK,97.28636932
-"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)","South Korea",KOR,97.28636932
+"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",North Korea,PRK,97.28636932
+"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",South Korea,KOR,97.28636932
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Kosovo,XKX,..
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Kuwait,KWT,..
 "Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Kyrgyz Republic,KGZ,..
@@ -910,7 +910,7 @@ Data from database: World Development Indicators,,,
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",IDA total,IDA,..
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",India,IND,21.38101959
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Indonesia,IDN,39.55766678
-"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)","Iran",IRN,44.33905792
+"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Iran,IRN,44.33905792
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Iraq,IRQ,22.92859268
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Ireland,IRL,79.08474731
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Isle of Man,IMN,..
@@ -922,8 +922,8 @@ Data from database: World Development Indicators,,,
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Kazakhstan,KAZ,..
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Kenya,KEN,43.90765762
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Kiribati,KIR,..
-"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)","North Korea",PRK,79.33777618
-"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)","South Korea",KOR,79.33777618
+"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",North Korea,PRK,79.33777618
+"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",South Korea,KOR,79.33777618
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Kosovo,XKX,..
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Kuwait,KWT,..
 "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Kyrgyz Republic,KGZ,..
@@ -1176,7 +1176,7 @@ Expenditure on primary education (% of government expenditure on education),IDA 
 Expenditure on primary education (% of government expenditure on education),IDA total,IDA,..
 Expenditure on primary education (% of government expenditure on education),India,IND,..
 Expenditure on primary education (% of government expenditure on education),Indonesia,IDN,..
-Expenditure on primary education (% of government expenditure on education),"Iran",IRN,..
+Expenditure on primary education (% of government expenditure on education),Iran,IRN,..
 Expenditure on primary education (% of government expenditure on education),Iraq,IRQ,..
 Expenditure on primary education (% of government expenditure on education),Ireland,IRL,..
 Expenditure on primary education (% of government expenditure on education),Isle of Man,IMN,..
@@ -1188,8 +1188,8 @@ Expenditure on primary education (% of government expenditure on education),Jord
 Expenditure on primary education (% of government expenditure on education),Kazakhstan,KAZ,..
 Expenditure on primary education (% of government expenditure on education),Kenya,KEN,..
 Expenditure on primary education (% of government expenditure on education),Kiribati,KIR,..
-Expenditure on primary education (% of government expenditure on education),"North Korea",PRK,..
-Expenditure on primary education (% of government expenditure on education),"South Korea",KOR,..
+Expenditure on primary education (% of government expenditure on education),North Korea,PRK,..
+Expenditure on primary education (% of government expenditure on education),South Korea,KOR,..
 Expenditure on primary education (% of government expenditure on education),Kosovo,XKX,..
 Expenditure on primary education (% of government expenditure on education),Kuwait,KWT,..
 Expenditure on primary education (% of government expenditure on education),Kyrgyz Republic,KGZ,..
@@ -1442,7 +1442,7 @@ Expenditure on secondary education (% of government expenditure on education),ID
 Expenditure on secondary education (% of government expenditure on education),IDA total,IDA,..
 Expenditure on secondary education (% of government expenditure on education),India,IND,..
 Expenditure on secondary education (% of government expenditure on education),Indonesia,IDN,..
-Expenditure on secondary education (% of government expenditure on education),"Iran",IRN,..
+Expenditure on secondary education (% of government expenditure on education),Iran,IRN,..
 Expenditure on secondary education (% of government expenditure on education),Iraq,IRQ,..
 Expenditure on secondary education (% of government expenditure on education),Ireland,IRL,..
 Expenditure on secondary education (% of government expenditure on education),Isle of Man,IMN,..
@@ -1454,8 +1454,8 @@ Expenditure on secondary education (% of government expenditure on education),Jo
 Expenditure on secondary education (% of government expenditure on education),Kazakhstan,KAZ,..
 Expenditure on secondary education (% of government expenditure on education),Kenya,KEN,..
 Expenditure on secondary education (% of government expenditure on education),Kiribati,KIR,..
-Expenditure on secondary education (% of government expenditure on education),"North Korea",PRK,..
-Expenditure on secondary education (% of government expenditure on education),"South Korea",KOR,..
+Expenditure on secondary education (% of government expenditure on education),North Korea,PRK,..
+Expenditure on secondary education (% of government expenditure on education),South Korea,KOR,..
 Expenditure on secondary education (% of government expenditure on education),Kosovo,XKX,..
 Expenditure on secondary education (% of government expenditure on education),Kuwait,KWT,..
 Expenditure on secondary education (% of government expenditure on education),Kyrgyz Republic,KGZ,..
@@ -1708,7 +1708,7 @@ Expenditure on tertiary education (% of government expenditure on education),IDA
 Expenditure on tertiary education (% of government expenditure on education),IDA total,IDA,..
 Expenditure on tertiary education (% of government expenditure on education),India,IND,..
 Expenditure on tertiary education (% of government expenditure on education),Indonesia,IDN,..
-Expenditure on tertiary education (% of government expenditure on education),"Iran",IRN,..
+Expenditure on tertiary education (% of government expenditure on education),Iran,IRN,..
 Expenditure on tertiary education (% of government expenditure on education),Iraq,IRQ,..
 Expenditure on tertiary education (% of government expenditure on education),Ireland,IRL,..
 Expenditure on tertiary education (% of government expenditure on education),Isle of Man,IMN,..
@@ -1720,8 +1720,8 @@ Expenditure on tertiary education (% of government expenditure on education),Jor
 Expenditure on tertiary education (% of government expenditure on education),Kazakhstan,KAZ,..
 Expenditure on tertiary education (% of government expenditure on education),Kenya,KEN,..
 Expenditure on tertiary education (% of government expenditure on education),Kiribati,KIR,..
-Expenditure on tertiary education (% of government expenditure on education),"North Korea",PRK,..
-Expenditure on tertiary education (% of government expenditure on education),"South Korea",KOR,..
+Expenditure on tertiary education (% of government expenditure on education),North Korea,PRK,..
+Expenditure on tertiary education (% of government expenditure on education),South Korea,KOR,..
 Expenditure on tertiary education (% of government expenditure on education),Kosovo,XKX,..
 Expenditure on tertiary education (% of government expenditure on education),Kuwait,KWT,..
 Expenditure on tertiary education (% of government expenditure on education),Kyrgyz Republic,KGZ,..
@@ -1972,7 +1972,7 @@ GDP (current US$),IDA only,IDX,1.49E+12
 GDP (current US$),IDA total,IDA,2.68E+12
 GDP (current US$),India,IND,3.17E+12
 GDP (current US$),Indonesia,IDN,1.19E+12
-GDP (current US$),"Iran",IRN,3.83E+11
+GDP (current US$),Iran,IRN,3.83E+11
 GDP (current US$),Iraq,IRQ,2.10E+11
 GDP (current US$),Ireland,IRL,5.31E+11
 GDP (current US$),Isle of Man,IMN,7931193222
@@ -1984,8 +1984,8 @@ GDP (current US$),Jordan,JOR,46296100141
 GDP (current US$),Kazakhstan,KAZ,1.97E+11
 GDP (current US$),Kenya,KEN,1.10E+11
 GDP (current US$),Kiribati,KIR,285259894
-GDP (current US$),"North Korea",PRK,..
-GDP (current US$),"South Korea",KOR,1.82E+12
+GDP (current US$),North Korea,PRK,..
+GDP (current US$),South Korea,KOR,1.82E+12
 GDP (current US$),Kosovo,XKX,9413403724
 GDP (current US$),Kuwait,KWT,1.48E+11
 GDP (current US$),Kyrgyz Republic,KGZ,9249133946
@@ -2238,7 +2238,7 @@ GDP per capita (current US$),IDA only,IDX,1254.095721
 GDP per capita (current US$),IDA total,IDA,1465.046916
 GDP per capita (current US$),India,IND,2239.613844
 GDP per capita (current US$),Indonesia,IDN,4287.17314
-GDP per capita (current US$),"Iran",IRN,4334.792686
+GDP per capita (current US$),Iran,IRN,4334.792686
 GDP per capita (current US$),Iraq,IRQ,4868.494311
 GDP per capita (current US$),Ireland,IRL,103961.9764
 GDP per capita (current US$),Isle of Man,IMN,94299.96935
@@ -2250,8 +2250,8 @@ GDP per capita (current US$),Jordan,JOR,4183.499983
 GDP per capita (current US$),Kazakhstan,KAZ,9983.601036
 GDP per capita (current US$),Kenya,KEN,2061.356221
 GDP per capita (current US$),Kiribati,KIR,2222.048295
-GDP per capita (current US$),"North Korea",PRK,..
-GDP per capita (current US$),"South Korea",KOR,35125.5225
+GDP per capita (current US$),North Korea,PRK,..
+GDP per capita (current US$),South Korea,KOR,35125.5225
 GDP per capita (current US$),Kosovo,XKX,5270.429653
 GDP per capita (current US$),Kuwait,KWT,34018.63429
 GDP per capita (current US$),Kyrgyz Republic,KGZ,1349.997307
@@ -2504,7 +2504,7 @@ GDP per capita (current US$),Zimbabwe,ZWE,1724.387271
 "GDP per capita, PPP (current international $)",IDA total,IDA,4483.673978
 "GDP per capita, PPP (current international $)",India,IND,8050.018575
 "GDP per capita, PPP (current international $)",Indonesia,IDN,12757.07464
-"GDP per capita, PPP (current international $)","Iran",IRN,14951.89487
+"GDP per capita, PPP (current international $)",Iran,IRN,14951.89487
 "GDP per capita, PPP (current international $)",Iraq,IRQ,12731.75358
 "GDP per capita, PPP (current international $)",Ireland,IRL,116903.6124
 "GDP per capita, PPP (current international $)",Isle of Man,IMN,..
@@ -2516,8 +2516,8 @@ GDP per capita (current US$),Zimbabwe,ZWE,1724.387271
 "GDP per capita, PPP (current international $)",Kazakhstan,KAZ,32945.85157
 "GDP per capita, PPP (current international $)",Kenya,KEN,5338.852434
 "GDP per capita, PPP (current international $)",Kiribati,KIR,3020.493999
-"GDP per capita, PPP (current international $)","North Korea",PRK,..
-"GDP per capita, PPP (current international $)","South Korea",KOR,48419.64325
+"GDP per capita, PPP (current international $)",North Korea,PRK,..
+"GDP per capita, PPP (current international $)",South Korea,KOR,48419.64325
 "GDP per capita, PPP (current international $)",Kosovo,XKX,12362.42102
 "GDP per capita, PPP (current international $)",Kuwait,KWT,50651.95758
 "GDP per capita, PPP (current international $)",Kyrgyz Republic,KGZ,5736.478834
@@ -2770,7 +2770,7 @@ Gini index,IDA only,IDX,..
 Gini index,IDA total,IDA,..
 Gini index,India,IND,..
 Gini index,Indonesia,IDN,35.5
-Gini index,"Iran",IRN,35.5
+Gini index,Iran,IRN,35.5
 Gini index,Iraq,IRQ,..
 Gini index,Ireland,IRL,29.4
 Gini index,Isle of Man,IMN,..
@@ -2782,8 +2782,8 @@ Gini index,Jordan,JOR,..
 Gini index,Kazakhstan,KAZ,29.2
 Gini index,Kenya,KEN,38.7
 Gini index,Kiribati,KIR,..
-Gini index,"North Korea",PRK,..
-Gini index,"South Korea",KOR,32.9
+Gini index,North Korea,PRK,..
+Gini index,South Korea,KOR,32.9
 Gini index,Kosovo,XKX,49.4
 Gini index,Kuwait,KWT,..
 Gini index,Kyrgyz Republic,KGZ,28.8
@@ -3036,7 +3036,7 @@ Gini index,Zimbabwe,ZWE,..
 "GNI per capita, PPP (current international $)",IDA total,IDA,4446.076238
 "GNI per capita, PPP (current international $)",India,IND,7960
 "GNI per capita, PPP (current international $)",Indonesia,IDN,12410
-"GNI per capita, PPP (current international $)","Iran",IRN,14950
+"GNI per capita, PPP (current international $)",Iran,IRN,14950
 "GNI per capita, PPP (current international $)",Iraq,IRQ,12610
 "GNI per capita, PPP (current international $)",Ireland,IRL,83550
 "GNI per capita, PPP (current international $)",Isle of Man,IMN,..
@@ -3048,8 +3048,8 @@ Gini index,Zimbabwe,ZWE,..
 "GNI per capita, PPP (current international $)",Kazakhstan,KAZ,28900
 "GNI per capita, PPP (current international $)",Kenya,KEN,5260
 "GNI per capita, PPP (current international $)",Kiribati,KIR,4730
-"GNI per capita, PPP (current international $)","North Korea",PRK,..
-"GNI per capita, PPP (current international $)","South Korea",KOR,48960
+"GNI per capita, PPP (current international $)",North Korea,PRK,..
+"GNI per capita, PPP (current international $)",South Korea,KOR,48960
 "GNI per capita, PPP (current international $)",Kosovo,XKX,12600
 "GNI per capita, PPP (current international $)",Kuwait,KWT,58890
 "GNI per capita, PPP (current international $)",Kyrgyz Republic,KGZ,5350
@@ -3302,7 +3302,7 @@ Government Effectiveness: Estimate,IDA only,IDX,..
 Government Effectiveness: Estimate,IDA total,IDA,..
 Government Effectiveness: Estimate,India,IND,0.249238417
 Government Effectiveness: Estimate,Indonesia,IDN,0.346443444
-Government Effectiveness: Estimate,"Iran",IRN,-0.887051046
+Government Effectiveness: Estimate,Iran,IRN,-0.887051046
 Government Effectiveness: Estimate,Iraq,IRQ,-1.320098639
 Government Effectiveness: Estimate,Ireland,IRL,1.463425398
 Government Effectiveness: Estimate,Isle of Man,IMN,..
@@ -3314,8 +3314,8 @@ Government Effectiveness: Estimate,Jordan,JOR,0.19454968
 Government Effectiveness: Estimate,Kazakhstan,KAZ,0.029729318
 Government Effectiveness: Estimate,Kenya,KEN,-0.325909495
 Government Effectiveness: Estimate,Kiribati,KIR,0.094003469
-Government Effectiveness: Estimate,"North Korea",PRK,-1.584992528
-Government Effectiveness: Estimate,"South Korea",KOR,1.365653753
+Government Effectiveness: Estimate,North Korea,PRK,-1.584992528
+Government Effectiveness: Estimate,South Korea,KOR,1.365653753
 Government Effectiveness: Estimate,Kosovo,XKX,-0.25703299
 Government Effectiveness: Estimate,Kuwait,KWT,-0.073397771
 Government Effectiveness: Estimate,Kyrgyz Republic,KGZ,-0.776387393
@@ -3568,7 +3568,7 @@ Government Effectiveness: Estimate,Zimbabwe,ZWE,-1.290561199
 "Government expenditure on education, total (% of GDP)",IDA total,IDA,3.26533711
 "Government expenditure on education, total (% of GDP)",India,IND,4.635141373
 "Government expenditure on education, total (% of GDP)",Indonesia,IDN,1.032217503
-"Government expenditure on education, total (% of GDP)","Iran",IRN,..
+"Government expenditure on education, total (% of GDP)",Iran,IRN,..
 "Government expenditure on education, total (% of GDP)",Iraq,IRQ,..
 "Government expenditure on education, total (% of GDP)",Ireland,IRL,3.005980015
 "Government expenditure on education, total (% of GDP)",Isle of Man,IMN,..
@@ -3580,8 +3580,8 @@ Government Effectiveness: Estimate,Zimbabwe,ZWE,-1.290561199
 "Government expenditure on education, total (% of GDP)",Kazakhstan,KAZ,4.385694027
 "Government expenditure on education, total (% of GDP)",Kenya,KEN,4.89040184
 "Government expenditure on education, total (% of GDP)",Kiribati,KIR,14.19515991
-"Government expenditure on education, total (% of GDP)","North Korea",PRK,..
-"Government expenditure on education, total (% of GDP)","South Korea",KOR,4.866270065
+"Government expenditure on education, total (% of GDP)",North Korea,PRK,..
+"Government expenditure on education, total (% of GDP)",South Korea,KOR,4.866270065
 "Government expenditure on education, total (% of GDP)",Kosovo,XKX,..
 "Government expenditure on education, total (% of GDP)",Kuwait,KWT,7.762466908
 "Government expenditure on education, total (% of GDP)",Kyrgyz Republic,KGZ,6.17235136
@@ -3834,7 +3834,7 @@ Government Effectiveness: Estimate,Zimbabwe,ZWE,-1.290561199
 "Hospital beds (per 1,000 people)",IDA total,IDA,..
 "Hospital beds (per 1,000 people)",India,IND,1.6
 "Hospital beds (per 1,000 people)",Indonesia,IDN,1.36
-"Hospital beds (per 1,000 people)","Iran",IRN,..
+"Hospital beds (per 1,000 people)",Iran,IRN,..
 "Hospital beds (per 1,000 people)",Iraq,IRQ,1.3
 "Hospital beds (per 1,000 people)",Ireland,IRL,..
 "Hospital beds (per 1,000 people)",Isle of Man,IMN,..
@@ -3846,8 +3846,8 @@ Government Effectiveness: Estimate,Zimbabwe,ZWE,-1.290561199
 "Hospital beds (per 1,000 people)",Kazakhstan,KAZ,..
 "Hospital beds (per 1,000 people)",Kenya,KEN,..
 "Hospital beds (per 1,000 people)",Kiribati,KIR,..
-"Hospital beds (per 1,000 people)","North Korea",PRK,..
-"Hospital beds (per 1,000 people)","South Korea",KOR,12.75
+"Hospital beds (per 1,000 people)",North Korea,PRK,..
+"Hospital beds (per 1,000 people)",South Korea,KOR,12.75
 "Hospital beds (per 1,000 people)",Kosovo,XKX,..
 "Hospital beds (per 1,000 people)",Kuwait,KWT,..
 "Hospital beds (per 1,000 people)",Kyrgyz Republic,KGZ,4.23
@@ -4101,7 +4101,7 @@ People using at least basic drinking water services (% of population),IDA only,I
 People using at least basic drinking water services (% of population),IDA total,IDA,..
 People using at least basic drinking water services (% of population),India,IND,92.72465388
 People using at least basic drinking water services (% of population),Indonesia,IDN,93.35176582
-People using at least basic drinking water services (% of population),"Iran",IRN,97.57192402
+People using at least basic drinking water services (% of population),Iran,IRN,97.57192402
 People using at least basic drinking water services (% of population),Iraq,IRQ,98.37115437
 People using at least basic drinking water services (% of population),Ireland,IRL,95.99583147
 People using at least basic drinking water services (% of population),Isle of Man,IMN,99.74742984
@@ -4113,8 +4113,8 @@ People using at least basic drinking water services (% of population),Jordan,JOR
 People using at least basic drinking water services (% of population),Kazakhstan,KAZ,95.44405932
 People using at least basic drinking water services (% of population),Kenya,KEN,62.19883728
 People using at least basic drinking water services (% of population),Kiribati,KIR,74.8564949
-People using at least basic drinking water services (% of population),"North Korea",PRK,93.86514132
-People using at least basic drinking water services (% of population),"South Korea",KOR,99.92958764
+People using at least basic drinking water services (% of population),North Korea,PRK,93.86514132
+People using at least basic drinking water services (% of population),South Korea,KOR,99.92958764
 People using at least basic drinking water services (% of population),Kosovo,XKX,..
 People using at least basic drinking water services (% of population),Kuwait,KWT,100
 People using at least basic drinking water services (% of population),Kyrgyz Republic,KGZ,90.75355704
@@ -4367,7 +4367,7 @@ People with basic handwashing facilities including soap and water (% of populati
 People with basic handwashing facilities including soap and water (% of population),IDA total,IDA,..
 People with basic handwashing facilities including soap and water (% of population),India,IND,74.23072608
 People with basic handwashing facilities including soap and water (% of population),Indonesia,IDN,78.81205632
-People with basic handwashing facilities including soap and water (% of population),"Iran",IRN,..
+People with basic handwashing facilities including soap and water (% of population),Iran,IRN,..
 People with basic handwashing facilities including soap and water (% of population),Iraq,IRQ,97.38989164
 People with basic handwashing facilities including soap and water (% of population),Ireland,IRL,..
 People with basic handwashing facilities including soap and water (% of population),Isle of Man,IMN,..
@@ -4379,8 +4379,8 @@ People with basic handwashing facilities including soap and water (% of populati
 People with basic handwashing facilities including soap and water (% of population),Kazakhstan,KAZ,..
 People with basic handwashing facilities including soap and water (% of population),Kenya,KEN,37.54742265
 People with basic handwashing facilities including soap and water (% of population),Kiribati,KIR,55.62993969
-People with basic handwashing facilities including soap and water (% of population),"North Korea",PRK,..
-People with basic handwashing facilities including soap and water (% of population),"South Korea",KOR,..
+People with basic handwashing facilities including soap and water (% of population),North Korea,PRK,..
+People with basic handwashing facilities including soap and water (% of population),South Korea,KOR,..
 People with basic handwashing facilities including soap and water (% of population),Kosovo,XKX,..
 People with basic handwashing facilities including soap and water (% of population),Kuwait,KWT,..
 People with basic handwashing facilities including soap and water (% of population),Kyrgyz Republic,KGZ,..
@@ -4633,7 +4633,7 @@ People with basic handwashing facilities including soap and water (% of populati
 "Secondary education, duration (years)",IDA total,IDA,6
 "Secondary education, duration (years)",India,IND,7
 "Secondary education, duration (years)",Indonesia,IDN,6
-"Secondary education, duration (years)","Iran",IRN,6
+"Secondary education, duration (years)",Iran,IRN,6
 "Secondary education, duration (years)",Iraq,IRQ,6
 "Secondary education, duration (years)",Ireland,IRL,5
 "Secondary education, duration (years)",Isle of Man,IMN,..
@@ -4645,8 +4645,8 @@ People with basic handwashing facilities including soap and water (% of populati
 "Secondary education, duration (years)",Kazakhstan,KAZ,7
 "Secondary education, duration (years)",Kenya,KEN,6
 "Secondary education, duration (years)",Kiribati,KIR,7
-"Secondary education, duration (years)","North Korea",PRK,6
-"Secondary education, duration (years)","South Korea",KOR,6
+"Secondary education, duration (years)",North Korea,PRK,6
+"Secondary education, duration (years)",South Korea,KOR,6
 "Secondary education, duration (years)",Kosovo,XKX,..
 "Secondary education, duration (years)",Kuwait,KWT,7
 "Secondary education, duration (years)",Kyrgyz Republic,KGZ,7
@@ -4899,7 +4899,7 @@ Urban population (% of total population),IDA only,IDX,35.34176827
 Urban population (% of total population),IDA total,IDA,38.37709275
 Urban population (% of total population),India,IND,35.393
 Urban population (% of total population),Indonesia,IDN,57.29
-Urban population (% of total population),"Iran",IRN,76.345
+Urban population (% of total population),Iran,IRN,76.345
 Urban population (% of total population),Iraq,IRQ,71.119
 Urban population (% of total population),Ireland,IRL,63.912
 Urban population (% of total population),Isle of Man,IMN,53.076
@@ -4911,8 +4911,8 @@ Urban population (% of total population),Jordan,JOR,91.626
 Urban population (% of total population),Kazakhstan,KAZ,57.821
 Urban population (% of total population),Kenya,KEN,28.493
 Urban population (% of total population),Kiribati,KIR,56.335
-Urban population (% of total population),"North Korea",PRK,62.642
-Urban population (% of total population),"South Korea",KOR,81.414
+Urban population (% of total population),North Korea,PRK,62.642
+Urban population (% of total population),South Korea,KOR,81.414
 Urban population (% of total population),Kosovo,XKX,..
 Urban population (% of total population),Kuwait,KWT,100
 Urban population (% of total population),Kyrgyz Republic,KGZ,37.146
