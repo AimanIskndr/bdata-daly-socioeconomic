@@ -895,7 +895,7 @@ Croatia,Non-communicable diseases,2019,31170.07728
 Croatia,Non-communicable diseases,2020,31210.85234
 Croatia,Non-communicable diseases,2021,31517.49726
 Croatia,Other COVID-19 pandemic-related outcomes,2017,0
-Croatia,Other COVID-19 pandemic-related outcomes,2018,0
+Croatia,Other COVID-1Korea9 pandemic-related outcomes,2018,0
 Croatia,Other COVID-19 pandemic-related outcomes,2019,0
 Croatia,Other COVID-19 pandemic-related outcomes,2020,368.3227987
 Croatia,Other COVID-19 pandemic-related outcomes,2021,696.3707101
@@ -959,26 +959,26 @@ Czechia,Other COVID-19 pandemic-related outcomes,2018,0
 Czechia,Other COVID-19 pandemic-related outcomes,2019,0
 Czechia,Other COVID-19 pandemic-related outcomes,2020,455.9759504
 Czechia,Other COVID-19 pandemic-related outcomes,2021,296.120099
-Democratic People's Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2017,3789.909097
-Democratic People's Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2018,3654.683444
-Democratic People's Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2019,3533.554769
-Democratic People's Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2020,3430.264315
-Democratic People's Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2021,3262.933898
-Democratic People's Republic of Korea,Injuries,2017,3550.73508
-Democratic People's Republic of Korea,Injuries,2018,3544.862702
-Democratic People's Republic of Korea,Injuries,2019,3485.833107
-Democratic People's Republic of Korea,Injuries,2020,3473.091828
-Democratic People's Republic of Korea,Injuries,2021,3450.326605
-Democratic People's Republic of Korea,Non-communicable diseases,2017,26012.78555
-Democratic People's Republic of Korea,Non-communicable diseases,2018,26184.99022
-Democratic People's Republic of Korea,Non-communicable diseases,2019,26378.43457
-Democratic People's Republic of Korea,Non-communicable diseases,2020,26604.04457
-Democratic People's Republic of Korea,Non-communicable diseases,2021,26842.80549
-Democratic People's Republic of Korea,Other COVID-19 pandemic-related outcomes,2017,0
-Democratic People's Republic of Korea,Other COVID-19 pandemic-related outcomes,2018,0
-Democratic People's Republic of Korea,Other COVID-19 pandemic-related outcomes,2019,0
-Democratic People's Republic of Korea,Other COVID-19 pandemic-related outcomes,2020,108.1310546
-Democratic People's Republic of Korea,Other COVID-19 pandemic-related outcomes,2021,98.83292533
+Democratic People's Republic of ,"Communicable, maternal, neonatal, and nutritional diseases",2017,3789.909097
+North Korea,"Communicable, maternal, neonatal, and nutritional diseases",2018,3654.683444
+North Korea,"Communicable, maternal, neonatal, and nutritional diseases",2019,3533.554769
+North Korea,"Communicable, maternal, neonatal, and nutritional diseases",2020,3430.264315
+North Korea,"Communicable, maternal, neonatal, and nutritional diseases",2021,3262.933898
+North Korea,Injuries,2017,3550.73508
+North Korea,Injuries,2018,3544.862702
+North Korea,Injuries,2019,3485.833107
+North Korea,Injuries,2020,3473.091828
+North Korea,Injuries,2021,3450.326605
+North Korea,Non-communicable diseases,2017,26012.78555
+North Korea,Non-communicable diseases,2018,26184.99022
+North Korea,Non-communicable diseases,2019,26378.43457
+North Korea,Non-communicable diseases,2020,26604.04457
+North Korea,Non-communicable diseases,2021,26842.80549
+North Korea,Other COVID-19 pandemic-related outcomes,2017,0
+North Korea,Other COVID-19 pandemic-related outcomes,2018,0
+North Korea,Other COVID-19 pandemic-related outcomes,2019,0
+North Korea,Other COVID-19 pandemic-related outcomes,2020,108.1310546
+North Korea,Other COVID-19 pandemic-related outcomes,2021,98.83292533
 Democratic Republic of the Congo,"Communicable, maternal, neonatal, and nutritional diseases",2017,30848.39569
 Democratic Republic of the Congo,"Communicable, maternal, neonatal, and nutritional diseases",2018,28580.70161
 Democratic Republic of the Congo,"Communicable, maternal, neonatal, and nutritional diseases",2019,27198.21788
@@ -1679,26 +1679,26 @@ Indonesia,Other COVID-19 pandemic-related outcomes,2018,0
 Indonesia,Other COVID-19 pandemic-related outcomes,2019,0
 Indonesia,Other COVID-19 pandemic-related outcomes,2020,490.3779336
 Indonesia,Other COVID-19 pandemic-related outcomes,2021,1460.119891
-Iran (Islamic Republic of),"Communicable, maternal, neonatal, and nutritional diseases",2017,2314.254344
-Iran (Islamic Republic of),"Communicable, maternal, neonatal, and nutritional diseases",2018,2107.139477
-Iran (Islamic Republic of),"Communicable, maternal, neonatal, and nutritional diseases",2019,1951.626379
-Iran (Islamic Republic of),"Communicable, maternal, neonatal, and nutritional diseases",2020,2988.93356
-Iran (Islamic Republic of),"Communicable, maternal, neonatal, and nutritional diseases",2021,6431.741165
-Iran (Islamic Republic of),Injuries,2017,3230.163722
-Iran (Islamic Republic of),Injuries,2018,3089.974855
-Iran (Islamic Republic of),Injuries,2019,2999.607578
-Iran (Islamic Republic of),Injuries,2020,2848.006934
-Iran (Islamic Republic of),Injuries,2021,2776.86575
-Iran (Islamic Republic of),Non-communicable diseases,2017,18725.76281
-Iran (Islamic Republic of),Non-communicable diseases,2018,18749.30186
-Iran (Islamic Republic of),Non-communicable diseases,2019,18887.84308
-Iran (Islamic Republic of),Non-communicable diseases,2020,18670.27219
-Iran (Islamic Republic of),Non-communicable diseases,2021,18666.07893
-Iran (Islamic Republic of),Other COVID-19 pandemic-related outcomes,2017,0
-Iran (Islamic Republic of),Other COVID-19 pandemic-related outcomes,2018,0
-Iran (Islamic Republic of),Other COVID-19 pandemic-related outcomes,2019,0
-Iran (Islamic Republic of),Other COVID-19 pandemic-related outcomes,2020,163.8174635
-Iran (Islamic Republic of),Other COVID-19 pandemic-related outcomes,2021,1374.902487
+Iran,"Communicable, maternal, neonatal, and nutritional diseases",2017,2314.254344
+Iran,"Communicable, maternal, neonatal, and nutritional diseases",2018,2107.139477
+Iran,"Communicable, maternal, neonatal, and nutritional diseases",2019,1951.626379
+Iran,"Communicable, maternal, neonatal, and nutritional diseases",2020,2988.93356
+Iran,"Communicable, maternal, neonatal, and nutritional diseases",2021,6431.741165
+Iran,Injuries,2017,3230.163722
+Iran,Injuries,2018,3089.974855
+Iran,Injuries,2019,2999.607578
+Iran,Injuries,2020,2848.006934
+Iran,Injuries,2021,2776.86575
+Iran,Non-communicable diseases,2017,18725.76281
+Iran,Non-communicable diseases,2018,18749.30186
+Iran,Non-communicable diseases,2019,18887.84308
+Iran,Non-communicable diseases,2020,18670.27219
+Iran,Non-communicable diseases,2021,18666.07893
+Iran,Other COVID-19 pandemic-related outcomes,2017,0
+Iran,Other COVID-19 pandemic-related outcomes,2018,0
+Iran,Other COVID-19 pandemic-related outcomes,2019,0
+Iran,Other COVID-19 pandemic-related outcomes,2020,163.8174635
+Iran,Other COVID-19 pandemic-related outcomes,2021,1374.902487
 Iraq,"Communicable, maternal, neonatal, and nutritional diseases",2017,4961.858666
 Iraq,"Communicable, maternal, neonatal, and nutritional diseases",2018,4630.674074
 Iraq,"Communicable, maternal, neonatal, and nutritional diseases",2019,4462.076089
@@ -2939,26 +2939,26 @@ Qatar,Other COVID-19 pandemic-related outcomes,2018,0
 Qatar,Other COVID-19 pandemic-related outcomes,2019,0
 Qatar,Other COVID-19 pandemic-related outcomes,2020,122.786902
 Qatar,Other COVID-19 pandemic-related outcomes,2021,392.1054966
-Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2017,1088.630094
-Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2018,1090.381103
-Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2019,1081.639115
-Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2020,1077.090471
-Republic of Korea,"Communicable, maternal, neonatal, and nutritional diseases",2021,1403.207818
-Republic of Korea,Injuries,2017,2975.55168
-Republic of Korea,Injuries,2018,2970.653859
-Republic of Korea,Injuries,2019,2951.418995
-Republic of Korea,Injuries,2020,2943.730395
-Republic of Korea,Injuries,2021,2959.3927
-Republic of Korea,Non-communicable diseases,2017,19061.17587
-Republic of Korea,Non-communicable diseases,2018,19327.78101
-Republic of Korea,Non-communicable diseases,2019,19547.09597
-Republic of Korea,Non-communicable diseases,2020,19859.04727
-Republic of Korea,Non-communicable diseases,2021,20515.82702
-Republic of Korea,Other COVID-19 pandemic-related outcomes,2017,0
-Republic of Korea,Other COVID-19 pandemic-related outcomes,2018,0
-Republic of Korea,Other COVID-19 pandemic-related outcomes,2019,0
-Republic of Korea,Other COVID-19 pandemic-related outcomes,2020,56.74984615
-Republic of Korea,Other COVID-19 pandemic-related outcomes,2021,218.0773416
+South Korea,"Communicable, maternal, neonatal, and nutritional diseases",2017,1088.630094
+South Korea,"Communicable, maternal, neonatal, and nutritional diseases",2018,1090.381103
+South Korea,"Communicable, maternal, neonatal, and nutritional diseases",2019,1081.639115
+South Korea,"Communicable, maternal, neonatal, and nutritional diseases",2020,1077.090471
+South Korea,"Communicable, maternal, neonatal, and nutritional diseases",2021,1403.207818
+South Korea,Injuries,2017,2975.55168
+South Korea,Injuries,2018,2970.653859
+South Korea,Injuries,2019,2951.418995
+South Korea,Injuries,2020,2943.730395
+South Korea,Injuries,2021,2959.3927
+South Korea,Non-communicable diseases,2017,19061.17587
+South Korea,Non-communicable diseases,2018,19327.78101
+South Korea,Non-communicable diseases,2019,19547.09597
+South Korea,Non-communicable diseases,2020,19859.04727
+South Korea,Non-communicable diseases,2021,20515.82702
+South Korea,Other COVID-19 pandemic-related outcomes,2017,0
+South Korea,Other COVID-19 pandemic-related outcomes,2018,0
+South Korea,Other COVID-19 pandemic-related outcomes,2019,0
+South Korea,Other COVID-19 pandemic-related outcomes,2020,56.74984615
+South Korea,Other COVID-19 pandemic-related outcomes,2021,218.0773416
 Republic of Moldova,"Communicable, maternal, neonatal, and nutritional diseases",2017,2574.601289
 Republic of Moldova,"Communicable, maternal, neonatal, and nutritional diseases",2018,2549.810593
 Republic of Moldova,"Communicable, maternal, neonatal, and nutritional diseases",2019,2468.185924
@@ -2999,26 +2999,26 @@ Romania,Other COVID-19 pandemic-related outcomes,2018,0
 Romania,Other COVID-19 pandemic-related outcomes,2019,0
 Romania,Other COVID-19 pandemic-related outcomes,2020,744.661761
 Romania,Other COVID-19 pandemic-related outcomes,2021,1969.362946
-Russian Federation,"Communicable, maternal, neonatal, and nutritional diseases",2017,2759.411699
-Russian Federation,"Communicable, maternal, neonatal, and nutritional diseases",2018,2662.779798
-Russian Federation,"Communicable, maternal, neonatal, and nutritional diseases",2019,2549.80801
-Russian Federation,"Communicable, maternal, neonatal, and nutritional diseases",2020,4907.509062
-Russian Federation,"Communicable, maternal, neonatal, and nutritional diseases",2021,10434.28302
-Russian Federation,Injuries,2017,5351.163858
-Russian Federation,Injuries,2018,5143.423727
-Russian Federation,Injuries,2019,4945.028528
-Russian Federation,Injuries,2020,4813.700263
-Russian Federation,Injuries,2021,4794.638742
-Russian Federation,Non-communicable diseases,2017,34208.63956
-Russian Federation,Non-communicable diseases,2018,34498.47091
-Russian Federation,Non-communicable diseases,2019,34338.42173
-Russian Federation,Non-communicable diseases,2020,34381.49891
-Russian Federation,Non-communicable diseases,2021,34629.68353
-Russian Federation,Other COVID-19 pandemic-related outcomes,2017,0
-Russian Federation,Other COVID-19 pandemic-related outcomes,2018,0
-Russian Federation,Other COVID-19 pandemic-related outcomes,2019,0
-Russian Federation,Other COVID-19 pandemic-related outcomes,2020,2705.157701
-Russian Federation,Other COVID-19 pandemic-related outcomes,2021,2206.727117
+Russia,"Communicable, maternal, neonatal, and nutritional diseases",2017,2759.411699
+Russia,"Communicable, maternal, neonatal, and nutritional diseases",2018,2662.779798
+Russia,"Communicable, maternal, neonatal, and nutritional diseases",2019,2549.80801
+Russia,"Communicable, maternal, neonatal, and nutritional diseases",2020,4907.509062
+Russia,"Communicable, maternal, neonatal, and nutritional diseases",2021,10434.28302
+Russia,Injuries,2017,5351.163858
+Russia,Injuries,2018,5143.423727
+Russia,Injuries,2019,4945.028528
+Russia,Injuries,2020,4813.700263
+Russia,Injuries,2021,4794.638742
+Russia,Non-communicable diseases,2017,34208.63956
+Russia,Non-communicable diseases,2018,34498.47091
+Russia,Non-communicable diseases,2019,34338.42173
+Russia,Non-communicable diseases,2020,34381.49891
+Russia,Non-communicable diseases,2021,34629.68353
+Russia,Other COVID-19 pandemic-related outcomes,2017,0
+Russia,Other COVID-19 pandemic-related outcomes,2018,0
+Russia,Other COVID-19 pandemic-related outcomes,2019,0
+Russia,Other COVID-19 pandemic-related outcomes,2020,2705.157701
+Russia,Other COVID-19 pandemic-related outcomes,2021,2206.727117
 Rwanda,"Communicable, maternal, neonatal, and nutritional diseases",2017,18187.13971
 Rwanda,"Communicable, maternal, neonatal, and nutritional diseases",2018,17114.55656
 Rwanda,"Communicable, maternal, neonatal, and nutritional diseases",2019,16228.24395
